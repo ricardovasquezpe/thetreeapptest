@@ -20,6 +20,8 @@ class HomeInteractor{
       List<Company> list = List<Company>.from(json.decode(response.toString()).map((x) => Company.fromJson(x)));
       _offSet++;
       _iHomePresenter?.onSuccessGetCompanies(list);
+    }).catchError((onError){
+      _iHomePresenter?.onSuccessGetCompanies([]);
     });
   }
 }
