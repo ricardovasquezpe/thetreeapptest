@@ -28,7 +28,6 @@ sdk: ">=2.13.0"
 
 # Flutter
 flutter: "2.2.2"
-
 ```
 
 ## Dependencies
@@ -42,7 +41,6 @@ get_it: 6.0.0
 
 # Cached Network Images for cached images
 cached_network_image: ^3.0.0
-
 ```
 
 ## Architecture
