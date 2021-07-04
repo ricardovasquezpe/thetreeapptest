@@ -51,7 +51,7 @@ Presenter => Presenters
 View => View
 ```
 
-## The app in action
+## The app in action in Android and IOS device
 ```bash
 https://drive.google.com/drive/folders/1EC6BHZKINyS0yPtFC4T8QO5jwiGgObTu
 ```
