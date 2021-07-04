@@ -50,3 +50,8 @@ Model => Interactors
 Presenter => Presenters 
 View => View
 ```
+
+## The app in action
+```bash
+https://drive.google.com/drive/folders/1EC6BHZKINyS0yPtFC4T8QO5jwiGgObTu
+```
